@@ -1,0 +1,9 @@
+# すべて無視
+*
+
+# ただしこのフォルダは追跡する
+!HamburgerMenu/
+!HamburgerMenu/**
+
+# .gitignore 自体も追跡
+!.gitignore
